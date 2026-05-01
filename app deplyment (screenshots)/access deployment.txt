@@ -1,0 +1,1 @@
+link deployment: https://huggingface.co/spaces/ayudellastuti/nlp-sentimental_analysis_mybca
